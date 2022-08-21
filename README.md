@@ -10,96 +10,105 @@
 </p>
 
 <div align="center">
-<a href="mailto: didyshen.oleksandr@gmail.com"> <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail" height="25"></a>
+<a href="mailto: didyshen.oleksandr@gmail.com"> <img src="img/gmail.svg" alt="Gmail" height="25"></a>
 </div>
+<br>
 
-# 🔧 Technologies & Tools
+ <h1 align="center">🔧 Languages & Tools</h1>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="img/html5.svg"
         width="48"
         height="48"
         alt="HTML"
       />
-      <br /><strong>HTML5</strong>
+      <br />HTML5
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        src="img/css3.svg"
         width="48"
         height="48"
         alt="CSS3"
       />
-      <br /><strong>CSS3</strong>
+      <br />CSS3
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="img/javascript.svg"
         width="48"
         height="48"
         alt="JavaScript"
       />
-      <br /><strong>JavaScript</strong>
+      <br />JavaScript
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="Go"
-      />
-      <br /><strong>Go</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="img/react.svg"
         width="48"
         height="48"
         alt="React"
       />
-      <br /><strong>React</strong>
+      <br />React
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        src="img/go.svg"
         width="48"
         height="48"
-        alt="PostgreSQL"
+        alt="Go"
       />
-      <br /><strong>PostgreSQL</strong>
+      <br />Go
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+    <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="img/vscode.svg"
+        width="48"
+        height="48"
+        alt="VScode"
+      />
+      <br />VScode
+    </td>
+    <td align="center" height="90" width="90">
+      <img
+        src="img/postman.svg"
+        width="60"
+        height="60"
+        alt="Postman"
+      />
+      <br />Postman
+    </td>
+    <td align="center" height="90" width="90">
+      <img
+        src="img/figma.svg"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br />Figma
+    </td>
+        <td align="center" height="90" width="90">
+      <img
+        src="img/git.svg"
         width="48"
         height="48"
         alt="Git"
       />
-      <br /><strong>Git</strong>
+      <br />Git
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="img/postgresql.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="PostgreSQL"
       />
-      <br /><strong>Npm</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
+      <br />PostgreSQL
     </td>
   </tr>
   </tr>
