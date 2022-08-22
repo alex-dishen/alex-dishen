@@ -83,25 +83,46 @@
       <h2 align="center">Calculator</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/calculator/' target="_blank">
-          <img src="img/Calculator.png" alt="calculator" height="100%" />
+          <img src="img/calculator.png" alt="calculator" height="100%" />
         </a>
         <br>
         <br>
         <p>
           <a href="https://github.com/alex-dishen/calculator" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=7d7777"/>
+            <img src="icons/repo.svg"/>
           </a>
           <a href="https://alex-dishen.github.io/calculator/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=108e1a"/>
+            <img src="icons/live.svg"/>
           </a>
         </p>
         <p><strong>HTML, CSS, Javascript</strong></p>
       </div>
     </td>
   </tr>
-</table>
-
-- [Etch-a-Sketch](https://github.com/TomSoerr/odin-etch-a-sketch)
+  <tr>
+    <td>
+      <h2 align="center">Etch-a-Sketch</h2>
+      <div align="center">  
+        <a href='https://alex-dishen.github.io/etch-a-sketch/' target="_blank">
+          <img src="img/etch-a-sketch.png" alt="etch_a_sketch.png" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/alex-dishen/calculator" target="_blank">
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href="https://alex-dishen.github.io/calculator/" target="_blank">
+            <img src="icons/live.svg"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, Javascript</strong></p>
+      </div>
+    </td>
 - [Rock Paper Scissors](https://github.com/TomSoerr/odin-rock-paper-scissors)
+  </tr>
+  <tr>
 - [Landing Page](https://github.com/TomSoerr/odin-landing-page)
 - [Recipes](https://github.com/TomSoerr/odin-recipes)
+  </tr>
+</table>
