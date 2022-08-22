@@ -142,7 +142,23 @@
     </td>
   </tr>
   <tr>
-- [Landing Page](https://github.com/TomSoerr/odin-landing-page)
-- [Recipes](https://github.com/TomSoerr/odin-recipes)
+    <td width="50%">
+      <h2 align="center">Landing page</h2>
+      <div align="center">  
+        <a href='https://alex-dishen.github.io/landing-page/' target="_blank">
+          <img src="img/landing-page.png" alt="landing-page.png" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/alex-dishen/landing-page" target="_blank">
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href="https://alex-dishen.github.io/landing-page/" target="_blank">
+            <img src="icons/live.svg"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS</strong></p>
+      </div>
   </tr>
 </table>
