@@ -1,10 +1,10 @@
 <h2 align="center">Hello, <a href="https://github.com/alex-dishen" 
-  title="Profile" target="_blank" style="color:#108e1a">I'm Alexander</a> 👋</h2>
+  title="Profile" target="_blank" style="color:#108e1a">I'm Alexander</a>👋</h2>
 <br>
 <p align="center" style="font-size:16px">
-  I'm a 21 years old Frontend Developer, who also has experience with Back End Development.<br>
-  I built a few things in Go, and you can view a few of them on my GitHub.<br>
-  Right now my mind is focused on the UI of the Web.<br>
+  I'm a 21 years old Frontend Developer, who also has experience with Back End
+  Development.<br>I built a few things in Go, and you can view a few of them
+  on my GitHub.<br>Right now my mind is focused on the UI of the Web.<br>
   I'm also passionate about exploring new technologies which I can leverage
   to solve real-life problems.
  <br>
@@ -79,7 +79,8 @@
 
 <table>
   <tr>
-    <td>
+    <td></td>
+    <td width="50%">
       <h2 align="center">Calculator</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/calculator/' target="_blank">
@@ -100,7 +101,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <h2 align="center">Etch-a-Sketch</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/etch-a-sketch/' target="_blank">
@@ -109,17 +110,36 @@
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/calculator" target="_blank">
+          <a href="https://github.com/alex-dishen/etch-a-sketch" target="_blank">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/calculator/" target="_blank">
+          <a href="https://alex-dishen.github.io/etch-a-sketch/" target="_blank">
             <img src="icons/live.svg"/>
           </a>
         </p>
         <p><strong>HTML, CSS, Javascript</strong></p>
       </div>
     </td>
-- [Rock Paper Scissors](https://github.com/TomSoerr/odin-rock-paper-scissors)
+    <td width="50%">
+      <h2 align="center">Rock Paper Scissors</h2>
+      <div align="center">  
+        <a href='https://alex-dishen.github.io/rock-paper-scissors/' target="_blank">
+          <img src="img/rock-paper-scissors.png" alt="rock-paper-scissors.png"
+               height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/alex-dishen/rock-paper-scissors" target="_blank">
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href="https://alex-dishen.github.io/rock-paper-scissors/" target="_blank">
+            <img src="icons/live.svg"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, Javascript</strong></p>
+      </div>
+    </td>
   </tr>
   <tr>
 - [Landing Page](https://github.com/TomSoerr/odin-landing-page)
