@@ -1,7 +1,7 @@
 <h2 align="center">Hello, <a href="https://github.com/alex-dishen" 
-  title="Profile" target="_blank" style="color:#108e1a">I'm Alexander</a>👋</h2>
+  title="Profile" target="_blank">I'm Alexander</a>👋</h2>
 <br>
-<p align="center" style="font-size:16px">
+<p align="center">
   I'm a 21 years old Frontend Developer, who also has experience with Back End
   Development.<br>I built a few things in Go, and you can view a few of them
   on my GitHub.<br>Right now my mind is focused on the UI of the Web.<br>
@@ -70,12 +70,12 @@
 
 <h1 align="center">Projects</h1>
 
-<p align="center" style="font-size:16px">The projects don't get updated with
+<p align="center">The projects don't get updated with
   time and according to my skills. <br>They preserve their initial form to 
   show my skills at that particular time, and show<br> my growth from 
   project to project.</p>
 
-<p align="center" style="font-size:20px; color:#108e1a">Newest Projects First</p>
+<h2 align="center">Newest Projects First</h2>
 
 <table>
   <tr>
