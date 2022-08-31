@@ -2,10 +2,9 @@
   title="Profile" target="_blank">I'm Alexander</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 21 years old Frontend Developer, who also has experience with Back End
-  Development.<br>I built a few things in Go, and you can view a few of them
-  on my GitHub.<br>Right now my mind is focused on the UI of the Web.<br>
-  I'm also passionate about exploring new technologies which I can leverage
+  I'm a 21 years old Frontend Developer.<br>Right now my mind is focused on
+  the FrontEnd technologies of the Web.<br>
+  Also I'm passionate about exploring new technologies which I can leverage
   to solve real-life problems.
  <br>
  <br>
@@ -38,19 +37,11 @@
       <img src="icons/react.svg" alt="React" width="48" height="48"/>
       <br />React
     </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/go.svg" alt="Go" width="48" height="48"/>
-      <br />Go
-    </td>
   </tr>
   <tr>
     <td align="center" height="90" width="90">
       <img src="icons/vscode.svg" alt="VScode" width="48" height="48"/>
       <br />VScode
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/postman.svg" alt="Postman" width="60" height="60"/>
-      <br />Postman
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/figma.svg" alt="Figma" width="48" height="48"/>
@@ -59,10 +50,6 @@
     <td align="center" height="90" width="90">
       <img src="icons/git.svg" alt="Git" width="48" height="48"/>
       <br />Git
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/postgresql.svg" alt="PostgreSQL" width="48" height="48"/>
-      <br />PostgreSQL
     </td>
   </tr>
 </table>
@@ -84,7 +71,7 @@
       <h2 align="center">Calculator</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/calculator/' target="_blank">
-          <img src="img/Calculator.png" alt="calculator" height="100%" />
+          <img src="img/Calculator.png" alt="Calculator" height="100%" />
         </a>
         <br>
         <br>
@@ -105,7 +92,7 @@
       <h2 align="center">Etch-a-Sketch</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/etch-a-sketch/' target="_blank">
-          <img src="img/etch-a-sketch.png" alt="etch_a_sketch.png" height="100%" />
+          <img src="img/etch-a-sketch.png" alt="Etch-A-Sketch" height="100%" />
         </a>
         <br>
         <br>
@@ -124,7 +111,7 @@
       <h2 align="center">Rock Paper Scissors</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/rock-paper-scissors/' target="_blank">
-          <img src="img/rock-paper-scissors.png" alt="rock-paper-scissors.png"
+          <img src="img/rock-paper-scissors.png" alt="Rock Paper Scissors"
                height="100%" />
         </a>
         <br>
@@ -146,7 +133,7 @@
       <h2 align="center">Landing page</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/landing-page/' target="_blank">
-          <img src="img/landing-page.png" alt="landing-page.png" height="100%" />
+          <img src="img/landing-page.png" alt="Landing Page" height="100%" />
         </a>
         <br>
         <br>
@@ -160,5 +147,25 @@
         </p>
         <p><strong>HTML, CSS</strong></p>
       </div>
+    </td>
+    <td width="50%">
+      <h2 align="center">Recipes</h2>
+      <div align="center">  
+        <a href='https://alex-dishen.github.io/recipes/' target="_blank">
+          <img src="img/recipes.png" alt="Recipes" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/alex-dishen/recipes" target="_blank">
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href="https://alex-dishen.github.io/recipes/" target="_blank">
+            <img src="icons/live.svg"/>
+          </a>
+        </p>
+        <p><strong>HTML</strong></p>
+      </div>
+    </td>
   </tr>
 </table>
