@@ -44,10 +44,6 @@
       <br />VScode
     </td>
     <td align="center" height="90" width="90">
-      <img src="icons/figma.svg" alt="Figma" width="48" height="48"/>
-      <br />Figma
-    </td>
-    <td align="center" height="90" width="90">
       <img src="icons/git.svg" alt="Git" width="48" height="48"/>
       <br />Git
     </td>
@@ -66,7 +62,25 @@
 
 <table>
   <tr>
-    <td></td>
+    <td width="50%">
+      <h2 align="center">Sign-up Form</h2>
+      <div align="center">  
+        <a href='https://alex-dishen.github.io/sign-up-form/' target="_blank">
+          <img src="img/sign-up.png" alt="sign-up form" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/sign-up-form' target='_blank'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href="https://alex-dishen.github.io/sign-up-form/" target="_blank">
+            <img src="icons/live.svg"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, Javascript</strong></p>
+      </div>
+    </td>    
     <td width="50%">
       <h2 align="center">Calculator</h2>
       <div align="center">  
