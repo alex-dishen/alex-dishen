@@ -66,7 +66,7 @@
       <h2 align="center">Sign-up Form</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/sign-up-form/' target="_blank">
-          <img src="img/sign-up.png" alt="sign-up form" height="100%" />
+          <img src="img/sign-up-form.png" alt="sign-up form" height="100%" />
         </a>
         <br>
         <br>
