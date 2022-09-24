@@ -64,10 +64,10 @@
   <tr>
     <td width="50%"></td>
     <td width="50%">
-      <h2 align="center">Sign-up Form</h2>
+      <h2 align="center">Admin Dashboard</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/admin-dashboard/' target="_blank">
-          <img src="img/dashboard_start.png" alt="dashboard" height="100%" />
+          <img src="img/admin_dashboard.png" alt="dashboard" height="100%" />
         </a>
         <br>
         <br>
@@ -79,7 +79,7 @@
             <img src="icons/live.svg"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, Javascript</strong></p>
+        <p><strong>HTML, CSS</strong></p>
       </div>
     </td>
   </tr>
