@@ -62,7 +62,25 @@
 
 <table>
   <tr>
-    <td width="50%"></td>
+    <td width='50%'>
+      <h2 align='center'>Library</h2>
+      <div align='center'>  
+        <a href='https://alex-dishen.github.io/library/' target='_blank'>
+          <img src='img/lobrary.png' alt='library' height='100%' />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/library' target='_blank'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://alex-dishen.github.io/library/' target='_blank'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS(Sass), JavaScript</strong></p>
+      </div>
+    </td>
     <td width="50%">
       <h2 align="center">Admin Dashboard</h2>
       <div align="center">  
@@ -100,7 +118,7 @@
             <img src="icons/live.svg"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, Javascript</strong></p>
+        <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>    
     <td width="50%">
@@ -119,7 +137,7 @@
             <img src="icons/live.svg"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, Javascript</strong></p>
+        <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
   </tr>
@@ -140,7 +158,7 @@
             <img src="icons/live.svg"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, Javascript</strong></p>
+        <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
     <td width="50%">
@@ -160,7 +178,7 @@
             <img src="icons/live.svg"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, Javascript</strong></p>
+        <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
   </tr>
