@@ -2,8 +2,7 @@
   title="Profile" target="_blank">I'm Alexander</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 21 years old Frontend Developer.<br>Right now my mind is focused on
-  the FrontEnd technologies of the Web.<br>
+  I'm a 21 years old Frontend Developer.<br>
   Also I'm passionate about exploring new technologies which I can leverage
   to solve real-life problems.
  <br>
@@ -40,10 +39,6 @@
       <br />React
     </td>
     <td align="center" height="90" width="90">
-      <img src="icons/sass.svg" alt="Sass" width="48" height="48"/>
-      <br />Sass
-    </td>
-    <td align="center" height="90" width="90">
       <img src="icons/git.svg" alt="Git" width="48" height="48"/>
       <br />Git
     </td>
@@ -66,7 +61,7 @@
       <h2 align='center'>Library</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/library/' target='_blank'>
-          <img src='img/lobrary.png' alt='library' height='100%' />
+          <img src='img/library.png' alt='library' height='100%' />
         </a>
         <br>
         <br>
@@ -78,7 +73,7 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>HTML, CSS(Sass), JavaScript</strong></p>
+        <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
     <td width="50%">
