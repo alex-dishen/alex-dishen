@@ -38,6 +38,10 @@
       <img src="icons/react.svg" alt="React" width="48" height="48"/>
       <br />React
     </td>
+        <td align="center" height="90" width="90">
+      <img src="icons/sass.svg" alt="SASS" width="48" height="48"/>
+      <br />SASS
+    </td>
     <td align="center" height="90" width="90">
       <img src="icons/git.svg" alt="Git" width="48" height="48"/>
       <br />Git
@@ -57,7 +61,24 @@
 
 <table>
   <tr>
-    <td width='50%'></td>
+    <td width='50%'>
+    <h2 align='center'>CV Creator</h2>
+      <div align='center'>  
+        <a href='https://alex-dishen.github.io/cv-application/' target="_blank">
+          <img src='img/cv.png' alt='CV Creator project' height='100%' />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/cv-application' target='_blank'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://alex-dishen.github.io/cv-application/' target="_blank">
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>SASS, React</strong></p>
+      </div></td>
     <td width="50%">
       <h2 align='center'>Tic Tac Toe</h2>
       <div align='center'>  
