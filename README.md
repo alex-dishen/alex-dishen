@@ -165,7 +165,7 @@
       <h2 align="center">Calculator</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/calculator/' target="_blank">
-          <img src="img/calculator.png" alt="Calculator" height="100%" />
+          <img src="img/Calculator.png" alt="Calculator" height="100%" />
         </a>
         <br>
         <br>
