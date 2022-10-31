@@ -3,8 +3,10 @@
 <br>
 <p align="center">
   I'm a 21 years old Frontend Developer.<br>
-  Also I'm passionate about exploring new technologies which I can leverage
-  to solve real-life problems.
+  I'm passionate about exploring new technologies which I can leverage
+  to solve real-life problems. <br>
+  I LOVE creating awesome websites. <br>
+  When you look at a website and you can't take your eyes away because of how awesome it is 😍🤩
  <br>
  <br>
   📫 How to reach me:
@@ -83,7 +85,7 @@
       <h2 align='center'>Tic Tac Toe</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/tic-tac-toe/' target="_blank">
-          <img src='img/tic_toc_toc.png' alt='Tic Tac Toe project' height='100%' />
+          <img src='img/tic-tac-toe.png' alt='Tic Tac Toe project' height='100%' />
         </a>
         <br>
         <br>
@@ -163,7 +165,7 @@
       <h2 align="center">Calculator</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/calculator/' target="_blank">
-          <img src="img/Calculator.png" alt="Calculator" height="100%" />
+          <img src="img/calculator.png" alt="Calculator" height="100%" />
         </a>
         <br>
         <br>
