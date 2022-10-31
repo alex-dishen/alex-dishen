@@ -6,7 +6,7 @@
   I'm passionate about exploring new technologies which I can leverage
   to solve real-life problems. <br>
   I LOVE creating awesome websites. <br>
-  When you look at a website and you can't take your eyes away because of how awesome it is 😍🤩
+  And currently looking forward to join an adventurous team!
  <br>
  <br>
   📫 How to reach me:
