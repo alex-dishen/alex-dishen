@@ -64,18 +64,18 @@
 <table>
   <tr>
     <td width='50%'>
-    <h2 align='center'>CV Creator (WORKING ON)</h2>
+    <h2 align='center'>CV Maker (WORKING ON)</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/cv-application/' target="_blank">
+        <a href='https://alex-dishen.github.io/cv-maker/' target="_blank">
           <img src='img/cv.png' alt='CV Creator project' height='100%' />
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/cv-application' target='_blank'>
+          <a href='https://github.com/alex-dishen/cv-maker' target='_blank'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/cv-application/' target="_blank">
+          <a href='https://alex-dishen.github.io/cv-maker/' target="_blank">
             <img src='icons/live.svg'/>
           </a>
         </p>
