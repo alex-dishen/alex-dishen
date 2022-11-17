@@ -64,7 +64,7 @@
 <table>
   <tr>
     <td width='50%'>
-    <h2 align='center'>CV Maker (WORKING ON)</h2>
+    <h2 align='center'>CV Maker</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/cv-maker/' target="_blank">
           <img src='img/cv.png' alt='CV Creator project' height='100%' />
@@ -79,7 +79,7 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>SASS, React</strong></p>
+        <p><strong>SCSS, React</strong></p>
       </div></td>
     <td width="50%">
       <h2 align='center'>Tic Tac Toe</h2>
