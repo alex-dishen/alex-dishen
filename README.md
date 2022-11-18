@@ -63,6 +63,28 @@
 
 <table>
   <tr>
+    <td width='50%'></td>
+    <td width="50%">
+      <h2 align='center'>Memory Card (WORKING ON)</h2>
+      <div align='center'>  
+        <a href='' target="_blank">
+          <img src='img/memory.png' alt='Tic Tac Toe project' height='100%' />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/memory-card' target='_blank'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='' target="_blank">
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width='50%'>
     <h2 align='center'>CV Maker</h2>
       <div align='center'>  
