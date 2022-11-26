@@ -1,5 +1,5 @@
 <h2 align="center">Hello, <a href="https://github.com/alex-dishen" 
-  title="Profile" target="_blank">I'm Alexander</a>👋</h2>
+  title="Profile">I'm Alexander</a>👋</h2>
 <br>
 <p align="center">
   I'm a 21 years old Frontend Developer.<br>
@@ -22,31 +22,48 @@
 
 <table align="center">
   <tr>
+    <td></td>
     <td align="center" height="90" width="90">
       <img src="icons/html5.svg" alt="HTML" width="48" height="48"/>
-      <br />HTML5
+      <br/>HTML5
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/css3.svg" alt="CSS3" width="48" height="48"/>
-      <br />CSS3
+      <br/>CSS3
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/javascript.svg" alt="JavaScript" width="48" height="48"/>
-      <br />JavaScript
+      <br/>JavaScript
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="icons/react.svg" alt="React" width="48" height="48"/>
+      <br/>React
     </td>
   </tr>
   <tr>
     <td align="center" height="90" width="90">
-      <img src="icons/react.svg" alt="React" width="48" height="48"/>
-      <br />React
+      <img src="icons/redux.svg" alt="Redux" width="48" height="48"/>
+      <br/>Redux
     </td>
-        <td align="center" height="90" width="90">
+    <td align="center" height="90" width="90">
+      <img src="icons/styled-components.svg" alt="Styled Components" height="48"/>
+      <br/>Styled Components
+    </td>
+    <td align="center" height="90" width="90">
       <img src="icons/sass.svg" alt="SASS" width="48" height="48"/>
-      <br />SASS
+      <br/>SASS
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="icons/jest.svg" alt="Jest" width="48" height="48"/>
+      <br/>Jest
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="icons/npm.svg" alt="NPM" width="48" height="48"/>
+      <br/>NPM
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/git.svg" alt="Git" width="48" height="48"/>
-      <br />Git
+      <br/>Git
     </td>
   </tr>
 </table>
@@ -63,59 +80,77 @@
 
 <table>
   <tr>
-    <td width='50%'></td>
-    <td width="50%">
-      <h2 align='center'>Memory Card (WORKING ON)</h2>
+    <td>
+      <h2 align='center'>Shop (WORKING ON)</h2>
       <div align='center'>  
-        <a href='' target="_blank">
-          <img src='img/memory.png' alt='Tic Tac Toe project' height='100%' />
+        <a href=''>
+          <img src='img/shp.png' alt='Tic Tac Toe project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/memory-card' target='_blank'>
+          <a href='https://github.com/alex-dishen/shop'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='' target="_blank">
+          <a href=''>
             <img src='icons/live.svg'/>
           </a>
         </p>
         <p><strong>React</strong></p>
       </div>
     </td>
+    <td>
+      <h2 align='center'>Memory Card (WORKING ON)</h2>
+      <div align='center'>  
+        <a href=''>
+          <img src='img/memory.png' alt='Memory Card Project'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/memory-card'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href=''>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, SCSS</strong></p>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td width='50%'>
+    <td>
     <h2 align='center'>CV Maker</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/cv-maker/' target="_blank">
-          <img src='img/cv.png' alt='CV Creator project' height='100%' />
+        <a href='https://alex-dishen.github.io/cv-maker/'>
+          <img src='img/cv.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/cv-maker' target='_blank'>
+          <a href='https://github.com/alex-dishen/cv-maker'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/cv-maker/' target="_blank">
+          <a href='https://alex-dishen.github.io/cv-maker/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>SCSS, React</strong></p>
+        <p><strong>React, SCSS</strong></p>
       </div></td>
-    <td width="50%">
+    <td>
       <h2 align='center'>Tic Tac Toe</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/tic-tac-toe/' target="_blank">
-          <img src='img/tic-tac-toe.png' alt='Tic Tac Toe project' height='100%' />
+        <a href='https://alex-dishen.github.io/tic-tac-toe/'>
+          <img src='img/tic-tac-toe.png' alt='Tic Tac Toe project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/tic-tac-toe' target='_blank'>
+          <a href='https://github.com/alex-dishen/tic-tac-toe'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/tic-tac-toe/' target="_blank">
+          <a href='https://alex-dishen.github.io/tic-tac-toe/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -124,38 +159,38 @@
     </td>
   </tr>
   <tr>
-    <td width='50%'>
+    <td>
       <h2 align='center'>Library</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/library/' target='_blank'>
-          <img src='img/library.png' alt='library' height='100%' />
+        <a href='https://alex-dishen.github.io/library/'>
+          <img src='img/library.png' alt='library'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/library' target='_blank'>
+          <a href='https://github.com/alex-dishen/library'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/library/' target='_blank'>
+          <a href='https://alex-dishen.github.io/library/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
-    <td width="50%">
+    <td>
       <h2 align="center">Admin Dashboard</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/admin-dashboard/' target="_blank">
-          <img src="img/admin_dashboard.png" alt="dashboard" height="100%" />
+        <a href='https://alex-dishen.github.io/admin-dashboard/'>
+          <img src="img/admin_dashboard.png" alt="dashboard"/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/admin-dashboard' target='_blank'>
+          <a href='https://github.com/alex-dishen/admin-dashboard'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/admin-dashboard/" target="_blank">
+          <a href="https://alex-dishen.github.io/admin-dashboard/">
             <img src="icons/live.svg"/>
           </a>
         </p>
@@ -164,38 +199,38 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
       <h2 align="center">Sign-up Form</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/sign-up-form/' target="_blank">
-          <img src="img/sign-up-form.png" alt="sign-up form" height="100%" />
+        <a href='https://alex-dishen.github.io/sign-up-form/'>
+          <img src="img/sign-up-form.png" alt="sign-up form"/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/sign-up-form' target='_blank'>
+          <a href='https://github.com/alex-dishen/sign-up-form'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/sign-up-form/" target="_blank">
+          <a href="https://alex-dishen.github.io/sign-up-form/">
             <img src="icons/live.svg"/>
           </a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>    
-    <td width="50%">
+    <td>
       <h2 align="center">Calculator</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/calculator/' target="_blank">
-          <img src="img/Calculator.png" alt="Calculator" height="100%" />
+        <a href='https://alex-dishen.github.io/calculator/'>
+          <img src="img/Calculator.png" alt="Calculator"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/calculator" target="_blank">
+          <a href="https://github.com/alex-dishen/calculator">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/calculator/" target="_blank">
+          <a href="https://alex-dishen.github.io/calculator/">
             <img src="icons/live.svg"/>
           </a>
         </p>
@@ -204,39 +239,38 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
       <h2 align="center">Etch-a-Sketch</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/etch-a-sketch/' target="_blank">
-          <img src="img/etch-a-sketch.png" alt="Etch-A-Sketch" height="100%" />
+        <a href='https://alex-dishen.github.io/etch-a-sketch/'>
+          <img src="img/etch-a-sketch.png" alt="Etch-A-Sketch"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/etch-a-sketch" target="_blank">
+          <a href="https://github.com/alex-dishen/etch-a-sketch">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/etch-a-sketch/" target="_blank">
+          <a href="https://alex-dishen.github.io/etch-a-sketch/">
             <img src="icons/live.svg"/>
           </a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
-    <td width="50%">
+    <td>
       <h2 align="center">Rock Paper Scissors</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/rock-paper-scissors/' target="_blank">
-          <img src="img/rock-paper-scissors.png" alt="Rock Paper Scissors"
-               height="100%" />
+        <a href='https://alex-dishen.github.io/rock-paper-scissors/'>
+          <img src="img/rock-paper-scissors.png" alt="Rock Paper Scissors"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/rock-paper-scissors" target="_blank">
+          <a href="https://github.com/alex-dishen/rock-paper-scissors">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/rock-paper-scissors/" target="_blank">
+          <a href="https://alex-dishen.github.io/rock-paper-scissors/">
             <img src="icons/live.svg"/>
           </a>
         </p>
@@ -245,38 +279,38 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
       <h2 align="center">Landing page</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/landing-page/' target="_blank">
-          <img src="img/landing-page.png" alt="Landing Page" height="100%" />
+        <a href='https://alex-dishen.github.io/landing-page/'>
+          <img src="img/landing-page.png" alt="Landing Page"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/landing-page" target="_blank">
+          <a href="https://github.com/alex-dishen/landing-page">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/landing-page/" target="_blank">
+          <a href="https://alex-dishen.github.io/landing-page/">
             <img src="icons/live.svg"/>
           </a>
         </p>
         <p><strong>HTML, CSS</strong></p>
       </div>
     </td>
-    <td width="50%">
+    <td>
       <h2 align="center">Recipes</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/recipes/' target="_blank">
-          <img src="img/recipes.png" alt="Recipes" height="100%" />
+        <a href='https://alex-dishen.github.io/recipes/'>
+          <img src="img/recipes.png" alt="Recipes"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/recipes" target="_blank">
+          <a href="https://github.com/alex-dishen/recipes">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/recipes/" target="_blank">
+          <a href="https://alex-dishen.github.io/recipes/">
             <img src="icons/live.svg"/>
           </a>
         </p>
