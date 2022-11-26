@@ -39,6 +39,7 @@
       <img src="icons/react.svg" alt="React" width="48" height="48"/>
       <br/>React
     </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center" height="90" width="90">
