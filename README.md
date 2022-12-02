@@ -103,7 +103,7 @@
     <td>
       <h2 align='center'>Memory Card</h2>
       <div align='center'>  
-        <a href=''>
+        <a href='https://alex-dishen.github.io/memory-card/'>
           <img src='img/memory-card.png' alt='Memory Card Project'/>
         </a>
         <br>
@@ -112,7 +112,7 @@
           <a href='https://github.com/alex-dishen/memory-card'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href=''>
+          <a href='https://alex-dishen.github.io/memory-card/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
