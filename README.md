@@ -101,10 +101,10 @@
       </div>
     </td>
     <td>
-      <h2 align='center'>Memory Card (WORKING ON)</h2>
+      <h2 align='center'>Memory Card</h2>
       <div align='center'>  
         <a href=''>
-          <img src='img/memory.png' alt='Memory Card Project'/>
+          <img src='img/memory-card.png' alt='Memory Card Project'/>
         </a>
         <br>
         <br>
