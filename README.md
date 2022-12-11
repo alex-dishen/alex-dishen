@@ -2,11 +2,12 @@
   title="Profile">I'm Alexander</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 21 years old Frontend Developer.<br>
-  I'm passionate about exploring new technologies which I can leverage
-  to solve real-life problems. <br>
-  I LOVE creating awesome websites. <br>
-  And currently looking forward to join an adventurous team!
+  I'm a 21 years old Frontend Developer based in Ukraine.<br>
+  I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
+  The thing that excites me, and gets me pumped up <br>
+  is the process of tearing an idea down into its smallest components, <br> 
+  learning, and figuring out how to put those pieces together<br>
+  while creating something really awesome.
  <br>
  <br>
   📫 How to reach me:
@@ -72,35 +73,56 @@
 
 <h1 align="center">Projects</h1>
 
-<p align="center">The projects don't get updated with
-  time and according to my skills. <br>They preserve their initial form to 
-  show my skills at that particular time, and show<br> my growth from 
+<p align="center">The projects don't get updated after they were finished. <br>They preserve their initial form to 
+  show my skills at that particular time,<br> and show my growth from 
   project to project.</p>
 
 <h2 align="center">Newest Projects First</h2>
 
 <table>
   <tr>
-    <td>
-      <h2 align='center'>Shop (WORKING ON)</h2>
+    <td width='50%'></td>
+    <td width='50%'>
+      <h2 align='center'>Currency Converter</h2>
       <div align='center'>  
         <a href=''>
-          <img src='img/shp.png' alt='Tic Tac Toe project'/>
+          <img src='img/currency-converter.png' alt='Currency Converter project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/shop'>
+          <a href='https://github.com/alex-dishen/currency-converter'>
             <img src="icons/repo.svg"/>
           </a>
           <a href=''>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React</strong></p>
+        <p><strong>Angular, TypeScript, SCSS</strong></p>
       </div>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>To-Do</h2>
+      <div align='center'>  
+        <a href='https://alex-dishen.github.io/todo-app/'>
+          <img src='' alt='To-Do project'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/todo-app'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://alex-dishen.github.io/todo-app/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, Redux, StyledComponents</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
       <h2 align='center'>Memory Card</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/memory-card/'>
@@ -121,7 +143,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width='50%'>
     <h2 align='center'>CV Maker</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/cv-maker/'>
@@ -139,7 +161,7 @@
         </p>
         <p><strong>React, SCSS</strong></p>
       </div></td>
-    <td>
+    <td width='50%'>
       <h2 align='center'>Tic Tac Toe</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/tic-tac-toe/'>
@@ -160,7 +182,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width='50%'>
       <h2 align='center'>Library</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/library/'>
@@ -179,7 +201,7 @@
         <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
-    <td>
+    <td width='50%'>
       <h2 align="center">Admin Dashboard</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/admin-dashboard/'>
@@ -200,7 +222,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width='50%'>
       <h2 align="center">Sign-up Form</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/sign-up-form/'>
@@ -219,7 +241,7 @@
         <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>    
-    <td>
+    <td width='50%'>
       <h2 align="center">Calculator</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/calculator/'>
@@ -240,7 +262,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width='50%'>
       <h2 align="center">Etch-a-Sketch</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/etch-a-sketch/'>
@@ -259,7 +281,7 @@
         <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
     </td>
-    <td>
+    <td width='50%'>
       <h2 align="center">Rock Paper Scissors</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/rock-paper-scissors/'>
@@ -280,7 +302,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width='50%'>
       <h2 align="center">Landing page</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/landing-page/'>
@@ -299,7 +321,7 @@
         <p><strong>HTML, CSS</strong></p>
       </div>
     </td>
-    <td>
+    <td width='50%'>
       <h2 align="center">Recipes</h2>
       <div align="center">  
         <a href='https://alex-dishen.github.io/recipes/'>
