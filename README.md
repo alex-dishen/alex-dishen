@@ -23,7 +23,6 @@
 
 <table align="center">
   <tr>
-    <td></td>
     <td align="center" height="90" width="90">
       <img src="icons/html5.svg" alt="HTML" width="48" height="48"/>
       <br/>HTML5
@@ -37,15 +36,22 @@
       <br/>JavaScript
     </td>
     <td align="center" height="90" width="90">
+      <img src="icons/typescript.svg" alt="TypeScript" width="48" height="48"/>
+      <br/>TypeScript
+    </td>
+    <td align="center" height="90" width="90">
       <img src="icons/react.svg" alt="React" width="48" height="48"/>
       <br/>React
     </td>
-    <td></td>
-  </tr>
-  <tr>
     <td align="center" height="90" width="90">
       <img src="icons/redux.svg" alt="Redux" width="48" height="48"/>
       <br/>Redux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="90" width="90">
+      <img src="icons/graphql.svg" alt="GraphQl" width="48" height="48"/>
+      <br/>GraphQL
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/styled-components.svg" alt="Styled Components" height="48"/>
@@ -54,6 +60,10 @@
     <td align="center" height="90" width="90">
       <img src="icons/sass.svg" alt="SASS" width="48" height="48"/>
       <br/>SASS
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="icons/firebase.svg" alt="Firebase" width="48" height="48"/>
+      <br/>Firebase
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/jest.svg" alt="Jest" width="48" height="48"/>
@@ -81,11 +91,28 @@
 
 <table>
   <tr>
-    <td width='50%'></td>
+    <td width='50%'>
+      <h2 align='center'>Shop</h2>
+      <div align='center'>  
+        <a href=''>
+          <img src='' alt='Shop'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/shop'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href=''>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript Redux, GraphQL</strong></p>
+      </div></td>
     <td width='50%'>
       <h2 align='center'>Currency Converter</h2>
       <div align='center'>  
-        <a href=''>
+        <a href='https://alex-dishen.github.io/currency-converter/'>
           <img src='img/currency-converter.png' alt='Currency Converter project'/>
         </a>
         <br>
@@ -94,7 +121,7 @@
           <a href='https://github.com/alex-dishen/currency-converter'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href=''>
+          <a href='https://alex-dishen.github.io/currency-converter/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -107,7 +134,7 @@
       <h2 align='center'>To-Do</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/todo-app/'>
-          <img src='' alt='To-Do project'/>
+          <img src='img/todo.png' alt='To-Do project'/>
         </a>
         <br>
         <br>
