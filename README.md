@@ -66,10 +66,6 @@
       <br/>Firebase
     </td>
     <td align="center" height="90" width="90">
-      <img src="icons/jest.svg" alt="Jest" width="48" height="48"/>
-      <br/>Jest
-    </td>
-    <td align="center" height="90" width="90">
       <img src="icons/npm.svg" alt="NPM" width="48" height="48"/>
       <br/>NPM
     </td>
