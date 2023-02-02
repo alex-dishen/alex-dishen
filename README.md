@@ -13,9 +13,13 @@
   📫 How to reach me:
 </p>
 
-<div align="center">
-  <a href="mailto: didyshen.oleksandr@gmail.com"> <img src="icons/gmail.svg" 
-    alt="Gmail" height="25"></a>
+<div style='display: flex; justify-content: center; gap: 15px;'>
+  <a href="https://www.linkedin.com/in/alex-dishen/"> 
+    <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' />
+  </a>
+  <a href="mailto: didyshen.oleksandr@gmail.com"> 
+    <img src="icons/gmail.svg" alt="Gmail" height="25" width='25' />
+  </a>
 </div>
 <br>
 
@@ -43,12 +47,12 @@
       <img src="icons/react.svg" alt="React" width="48" height="48"/>
       <br/>React
     </td>
+  </tr>
+  <tr>
     <td align="center" height="90" width="90">
       <img src="icons/redux.svg" alt="Redux" width="48" height="48"/>
       <br/>Redux
     </td>
-  </tr>
-  <tr>
     <td align="center" height="90" width="90">
       <img src="icons/graphql.svg" alt="GraphQl" width="48" height="48"/>
       <br/>GraphQL
@@ -61,6 +65,13 @@
       <img src="icons/sass.svg" alt="SASS" width="48" height="48"/>
       <br/>SASS
     </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center" height="90" width="90">
+      <img src="icons/git.svg" alt="Git" width="48" height="48"/>
+      <br/>Git
+    </td>
     <td align="center" height="90" width="90">
       <img src="icons/firebase.svg" alt="Firebase" width="48" height="48"/>
       <br/>Firebase
@@ -70,8 +81,12 @@
       <br/>NPM
     </td>
     <td align="center" height="90" width="90">
-      <img src="icons/git.svg" alt="Git" width="48" height="48"/>
-      <br/>Git
+      <img src="icons/gitlab.svg" alt="GitLab" width="48" height="48"/>
+      <br/>GitLab
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="icons/aws.svg" alt="GitLab" width="48" height="48"/>
+      <br/>AWS
     </td>
   </tr>
 </table>
@@ -79,19 +94,55 @@
 
 <h1 align="center">Projects</h1>
 
-<p align="center">The projects don't get updated after they were finished. <br>They preserve their initial form to 
-  show my skills at that particular time,<br> and show my growth from 
-  project to project.</p>
-
 <h2 align="center">Newest Projects First</h2>
 
 <table>
   <tr>
     <td width='50%'>
+      <h2 align='center'>Portfolio</h2>
+      <div align='center'>  
+        <a href=''>
+          <img src='' alt='Portfolio'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/portfolio'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href=''>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript, StyledComponents</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Infinite Slider</h2>
+      <div align='center'>  
+        <a href=''>
+          <img src='' alt='Infinite Carousel project'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/MaKs-Tkachyk/infinite-image-slider'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://codesandbox.io/p/github/MaKs-Tkachyk/infinite-image-slider/example?file=%2FREADME.md&selection=%5B%7B%22endColumn%22%3A1%2C%22endLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22startLineNumber%22%3A1%7D%5D'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript, StyledComponents</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
       <h2 align='center'>Shop</h2>
       <div align='center'>  
         <a href=''>
-          <img src='' alt='Shop'/>
+          <img src='img/shop.png' alt='Shop'/>
         </a>
         <br>
         <br>
