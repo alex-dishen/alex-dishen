@@ -13,7 +13,7 @@
   📫 How to reach me:
 </p>
 
-<div style='display: flex; justify-content: center; gap: 15px;'>
+<div align='center'>
   <a href="https://www.linkedin.com/in/alex-dishen/"> 
     <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' />
   </a>
