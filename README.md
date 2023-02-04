@@ -49,13 +49,10 @@
     </td>
   </tr>
   <tr>
+    <td></td>
     <td align="center" height="90" width="90">
       <img src="icons/redux.svg" alt="Redux" width="48" height="48"/>
       <br/>Redux
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/graphql.svg" alt="GraphQl" width="48" height="48"/>
-      <br/>GraphQL
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/styled-components.svg" alt="Styled Components" height="48"/>
