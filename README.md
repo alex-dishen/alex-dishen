@@ -70,8 +70,8 @@
       <br/>Git
     </td>
     <td align="center" height="90" width="90">
-      <img src="icons/firebase.svg" alt="Firebase" width="48" height="48"/>
-      <br/>Firebase
+      <img src="icons/vite.svg" alt="Vite" width="48" height="48"/>
+      <br/>Vite
     </td>
     <td align="center" height="90" width="90">
       <img src="icons/npm.svg" alt="NPM" width="48" height="48"/>
@@ -98,8 +98,8 @@
     <td width='50%'>
       <h2 align='center'>Portfolio</h2>
       <div align='center'>  
-        <a href=''>
-          <img src='' alt='Portfolio'/>
+        <a href='https://alex-dishen.github.io/portfolio/'>
+          <img src='img/portfolio.png' alt='Portfolio'/>
         </a>
         <br>
         <br>
@@ -117,8 +117,8 @@
     <td width='50%'>
       <h2 align='center'>Infinite Slider</h2>
       <div align='center'>  
-        <a href=''>
-          <img src='' alt='Infinite Carousel project'/>
+        <a href='https://codesandbox.io/s/all-custom-demo-vfxhtr'>
+          <img src='img/slider.png' alt='Infinite Carousel project'/>
         </a>
         <br>
         <br>
@@ -126,11 +126,11 @@
           <a href='https://github.com/MaKs-Tkachyk/infinite-image-slider'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://codesandbox.io/p/github/MaKs-Tkachyk/infinite-image-slider/example?file=%2FREADME.md&selection=%5B%7B%22endColumn%22%3A1%2C%22endLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22startLineNumber%22%3A1%7D%5D'>
+          <a href='https://codesandbox.io/s/all-custom-demo-vfxhtr'>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, StyledComponents</strong></p>
+        <p><strong>React, TypeScript</strong></p>
       </div>
     </td>
   </tr>
@@ -138,7 +138,7 @@
     <td width='50%'>
       <h2 align='center'>Shop</h2>
       <div align='center'>  
-        <a href=''>
+        <a href='https://alex-dishen.github.io/shop/'>
           <img src='img/shop.png' alt='Shop'/>
         </a>
         <br>
@@ -147,11 +147,11 @@
           <a href='https://github.com/alex-dishen/shop'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href=''>
+          <a href='https://alex-dishen.github.io/shop/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript Redux, GraphQL</strong></p>
+        <p><strong>React, TypeScript, Redux</strong></p>
       </div></td>
     <td width='50%'>
       <h2 align='center'>Currency Converter</h2>
