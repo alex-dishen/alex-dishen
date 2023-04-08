@@ -111,14 +111,14 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, StyledComponents</strong></p>
+        <p><strong>React, TypeScript, Styled-Components</strong></p>
       </div>
     </td>
     <td width='50%'>
-      <h2 align='center'>Infinite Slider</h2>
+      <h2 align='center'>Swipi</h2>
       <div align='center'>  
         <a href='https://codesandbox.io/s/all-custom-demo-vfxhtr'>
-          <img src='img/slider.png' alt='Infinite Carousel project'/>
+          <img src='img/slider.png' alt='Swipi project'/>
         </a>
         <br>
         <br>
@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td width='50%'>
-      <h2 align='center'>Shop</h2>
+      <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/shop/'>
           <img src='img/shop.png' alt='Shop'/>
@@ -151,7 +151,7 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Redux</strong></p>
+        <p><strong>React, TypeScript, Redux, Styled-Components</strong></p>
       </div></td>
     <td width='50%'>
       <h2 align='center'>Currency Converter</h2>
@@ -190,7 +190,7 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, Redux, StyledComponents</strong></p>
+        <p><strong>React, Redux, Styled-Components</strong></p>
       </div>
     </td>
     <td width='50%'>
