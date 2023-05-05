@@ -96,6 +96,29 @@
 <table>
   <tr>
     <td width='50%'>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Swipi Landing</h2>
+      <div align='center'>  
+        <a href='https://midstem.github.io/swipi-landing/'>
+          <img src='img/swipi-landing.png' alt='Swipi landing project'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/midstem/swipi-landing'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://midstem.github.io/swipi-landing/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript, Chakra</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
       <h2 align='center'>Portfolio</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/portfolio/'>
@@ -107,7 +130,7 @@
           <a href='https://github.com/alex-dishen/portfolio'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href=''>
+          <a href='https://alex-dishen.github.io/portfolio/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -123,7 +146,7 @@
         <br>
         <br>
         <p>
-          <a href='https://github.com/MaKs-Tkachyk/infinite-image-slider'>
+          <a href='https://github.com/midstem/swipi'>
             <img src="icons/repo.svg"/>
           </a>
           <a href='https://codesandbox.io/s/all-custom-demo-vfxhtr'>
