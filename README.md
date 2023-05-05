@@ -23,6 +23,14 @@
 </div>
 <br>
 
+<p align="center">✍️ My blog:</p>
+
+<div align='center'>
+  <a href='https://medium.com/@oleksandrdidyshen'>
+    <img src="icons/medium.svg" alt="LinkedIn" height="45" width='150' />
+  </a>
+</div>
+
 <h1 align="center">🔧 Languages & Tools</h1>
 
 <table align="center">
