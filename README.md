@@ -104,6 +104,23 @@
 <table>
   <tr>
     <td width='50%'>
+      <h2 align='center'>Node Navigation</h2>
+      <div align='center'>  
+        <a href='https://node-navigation.alex-dishen.repl.co'>
+          <img src='img/node-navigation.png' alt='Node navigation project'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/node-navigation'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://node-navigation.alex-dishen.repl.co'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>Express, TypeScript</strong></p>
+      </div>
     </td>
     <td width='50%'>
       <h2 align='center'>Swipi Landing</h2>
