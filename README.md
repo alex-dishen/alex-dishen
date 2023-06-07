@@ -104,6 +104,25 @@
 <table>
   <tr>
     <td width='50%'>
+      <h2 align='center'>Game Harbor</h2>
+      <div align='center'>  
+        <a href='https://alex-dishen.github.io/game-harbor/'>
+          <img src='img/shop.png' alt='Shop'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/shop'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://alex-dishen.github.io/game-harbor/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <!-- <p><strong>React, TypeScript, Redux, Styled-Components</strong></p> -->
+      </div>
+    </td>
+    <td width='50%'>
       <h2 align='center'>Node Navigation</h2>
       <div align='center'>  
         <a href='https://node-navigation.alex-dishen.repl.co'>
@@ -122,6 +141,8 @@
         <p><strong>Express, TypeScript</strong></p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width='50%'>
       <h2 align='center'>Swipi Landing</h2>
       <div align='center'>  
@@ -141,8 +162,6 @@
         <p><strong>React, TypeScript, Chakra</strong></p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width='50%'>
       <h2 align='center'>Portfolio</h2>
       <div align='center'>  
@@ -162,6 +181,8 @@
         <p><strong>React, TypeScript, Styled-Components</strong></p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width='50%'>
       <h2 align='center'>Swipi</h2>
       <div align='center'>  
@@ -181,26 +202,6 @@
         <p><strong>React, TypeScript</strong></p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width='50%'>
-      <h2 align='center'>Game Harbor</h2>
-      <div align='center'>  
-        <a href='https://alex-dishen.github.io/shop/'>
-          <img src='img/shop.png' alt='Shop'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/alex-dishen/shop'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://alex-dishen.github.io/shop/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Redux, Styled-Components</strong></p>
-      </div></td>
     <td width='50%'>
       <h2 align='center'>Currency Converter</h2>
       <div align='center'>  
