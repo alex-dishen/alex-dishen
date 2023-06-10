@@ -103,6 +103,25 @@
 
 <table>
   <tr>
+    <td width='50%'></td>
+    <td width='50%'>
+      <h2 align='center'>Moris</h2>
+      <div align='center'>  
+        <a href="https://github.com/alex-dishen/moris">
+          <img src='img/moris.jpg' alt='Moris CLI project'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/moris'>
+            <img src="icons/repo.svg"/>
+          </a>
+        </p>
+        <p><strong>Node.js, TypeScript</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width='50%'>
       <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
@@ -119,7 +138,7 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <!-- <p><strong>React, TypeScript, Redux, Styled-Components</strong></p> -->
+        <p><strong>React, TypeScript, Redux, Styled-Components</strong></p>
       </div>
     </td>
     <td width='50%'>
@@ -146,7 +165,7 @@
     <td width='50%'>
       <h2 align='center'>Swipi Landing</h2>
       <div align='center'>  
-        <a href='https://midstem.github.io/swipi-landing/'>
+        <a href='https://swipi.midstem.net'>
           <img src='img/swipi-landing.png' alt='Swipi landing project'/>
         </a>
         <br>
@@ -155,7 +174,7 @@
           <a href='https://github.com/midstem/swipi-landing'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://midstem.github.io/swipi-landing/'>
+          <a href='https://swipi.midstem.net'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -186,7 +205,7 @@
     <td width='50%'>
       <h2 align='center'>Swipi</h2>
       <div align='center'>  
-        <a href='https://codesandbox.io/s/all-custom-demo-vfxhtr'>
+        <a href='https://swipi.midstem.net'>
           <img src='img/slider.png' alt='Swipi project'/>
         </a>
         <br>
@@ -195,7 +214,7 @@
           <a href='https://github.com/midstem/swipi'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://codesandbox.io/s/all-custom-demo-vfxhtr'>
+          <a href='https://swipi.midstem.net'>
             <img src='icons/live.svg'/>
           </a>
         </p>
