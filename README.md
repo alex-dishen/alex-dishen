@@ -105,24 +105,6 @@
   <tr>
     <td width='50%'></td>
     <td width='50%'>
-      <h2 align='center'>Moris</h2>
-      <div align='center'>  
-        <a href="https://github.com/alex-dishen/moris">
-          <img src='img/moris.jpg' alt='Moris CLI project'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/alex-dishen/moris'>
-            <img src="icons/repo.svg"/>
-          </a>
-        </p>
-        <p><strong>Node.js, TypeScript</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width='50%'>
       <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/game-harbor/'>
@@ -138,7 +120,65 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Redux, Styled-Components</strong></p>
+        <p><strong>React, TypeScript, Redux, Express, PostgreSQL</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>Chronous Landing</h2>
+      <div align='center'>  
+        <a href='https://calendar.midstem.net'>
+          <img src='img/chronous.png' alt='Shop'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/midstem/chronous'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://calendar.midstem.net'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript, Next, Styled-Components</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Streamers</h2>
+      <div align='center'>  
+        <a href='https://github.com/alex-dishen/streamers'>
+          <img src='img/streamers.png' alt='Streamers'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/streamers'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <!-- <a href=''>
+            <img src='icons/live.svg'/>
+          </a> -->
+        </p>
+        <p><strong>React, TypeScript, Express, PostgreSQL</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>Moris</h2>
+      <div align='center'>  
+        <a href="https://github.com/alex-dishen/moris">
+          <img src='img/moris.jpg' alt='Moris CLI project'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/moris'>
+            <img src="icons/repo.svg"/>
+          </a>
+        </p>
+        <p><strong>Node.js, TypeScript</strong></p>
       </div>
     </td>
     <td width='50%'>
@@ -170,15 +210,10 @@
         </a>
         <br>
         <br>
-        <p>
-          <a href='https://github.com/midstem/swipi-landing'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://swipi.midstem.net'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Chakra</strong></p>
+        <a href='https://swipi.midstem.net'>
+          <img src='icons/live.svg'/>
+        </a>
+        <p><strong>React, TypeScript, Next, Chakra</strong></p>
       </div>
     </td>
     <td width='50%'>
