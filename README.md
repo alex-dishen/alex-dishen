@@ -1,8 +1,8 @@
 <h2 align="center">Hello, <a href="https://github.com/alex-dishen" 
-  title="Profile">I'm Alexander</a>👋</h2>
+  title="Profile">I'm Oleksandr</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 21 years old Frontend Developer based in Ukraine.<br>
+  I'm a 22 years old Software Engineer based in Ukraine.<br>
   I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
   The thing that excites me, and gets me pumped up <br>
   is the process of tearing an idea down into its smallest components, <br> 
@@ -31,70 +31,103 @@
   </a>
 </div>
 
-<h1 align="center">🔧 Languages & Tools</h1>
+<h1 align="center">🚀 Languages & Tools</h1>
+
+<h2 align='center'>🏝️ Front End</h2>
 
 <table align="center">
   <tr>
-    <td align="center" height="90" width="90">
-      <img src="icons/html5.svg" alt="HTML" width="48" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/html5.svg" alt="HTML" width="35" height="35"/>
       <br/>HTML5
     </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/css3.svg" alt="CSS3" width="48" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/css3.svg" alt="CSS3" width="35" height="35"/>
       <br/>CSS3
     </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/javascript.svg" alt="JavaScript" width="48" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/javascript.svg" alt="JavaScript" width="35" height="35"/>
       <br/>JavaScript
     </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/typescript.svg" alt="TypeScript" width="48" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/typescript.svg" alt="TypeScript" width="35" height="35"/>
       <br/>TypeScript
     </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/react.svg" alt="React" width="48" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/react.svg" alt="React" width="35" height="35"/>
       <br/>React
     </td>
   </tr>
   <tr>
-    <td></td>
-    <td align="center" height="90" width="90">
-      <img src="icons/redux.svg" alt="Redux" width="48" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/next.svg" alt="React" width="35" height="35"/>
+      <br/>Next.js
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/react.svg" alt="React" width="35" height="35"/>
+      <br/>React Native
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/redux.svg" alt="Redux" width="35" height="35"/>
       <br/>Redux
     </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/styled-components.svg" alt="Styled Components" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/styled-components.svg" alt="Styled Components" height="35"/>
       <br/>Styled Components
     </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/sass.svg" alt="SASS" width="48" height="48"/>
+    <td align="center" height="70" width="70">
+      <img src="icons/sass.svg" alt="SASS" width="35" height="35"/>
       <br/>SASS
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center" height="90" width="90">
-      <img src="icons/git.svg" alt="Git" width="48" height="48"/>
-      <br/>Git
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/vite.svg" alt="Vite" width="48" height="48"/>
-      <br/>Vite
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/npm.svg" alt="NPM" width="48" height="48"/>
-      <br/>NPM
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/gitlab.svg" alt="GitLab" width="48" height="48"/>
-      <br/>GitLab
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="icons/aws.svg" alt="GitLab" width="48" height="48"/>
-      <br/>AWS
     </td>
   </tr>
 </table>
+
+<h2 align='center'>👷🏻 Beck End</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" height="70" width="70">
+      <img src="icons/nodejs.svg" alt="Node.js" width="35" height="35"/>
+      <br/>Node.js
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/express.svg" alt="Express" width="35" height="35"/>
+      <br/>Express
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/postgres.svg" alt="PostgreSQL" width="35" height="35"/>
+      <br/>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+<h2 align='center'>⚗️ Tools</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" height="70" width="70">
+      <img src="icons/git.svg" alt="Git" width="35" height="35"/>
+      <br/>Git
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/vite.svg" alt="Vite" width="35" height="35"/>
+      <br/>Vite
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/aws.svg" alt="GitLab" width="35" height="35"/>
+      <br/>AWS
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/figma.svg" alt="Figma" width="35" height="35"/>
+      <br/>Figma
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/postman.svg" alt="Postman" width="35" height="35"/>
+      <br/>Postman
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <h1 align="center">Projects</h1>
