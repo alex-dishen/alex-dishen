@@ -252,7 +252,7 @@
     <td width='50%'>
       <h2 align='center'>Portfolio</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/portfolio/'>
+        <a href='https://alex-dishen.web.app'>
           <img src='img/portfolio.png' alt='Portfolio'/>
         </a>
         <br>
@@ -261,7 +261,7 @@
           <a href='https://github.com/alex-dishen/portfolio'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/portfolio/'>
+          <a href='https://alex-dishen.web.app'>
             <img src='icons/live.svg'/>
           </a>
         </p>
