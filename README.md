@@ -161,7 +161,7 @@
     <td width='50%'>
       <h2 align='center'>Chronous</h2>
       <div align='center'>  
-        <a href='https://calendar.midstem.net'>
+        <a href='https://chronous.midstem.net'>
           <img src='img/chronous.png' alt='Chronous'/>
         </a>
         <br>
@@ -170,7 +170,7 @@
           <a href='https://github.com/midstem/chronous'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://calendar.midstem.net'>
+          <a href='https://chronous.midstem.net'>
             <img src='icons/live.svg'/>
           </a>
         </p>
