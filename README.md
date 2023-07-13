@@ -167,14 +167,11 @@
         <br>
         <br>
         <p>
-          <a href='https://github.com/midstem/chronous'>
-            <img src="icons/repo.svg"/>
-          </a>
           <a href='https://chronous.midstem.net'>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Next, Styled-Components</strong></p>
+        <p><strong>React, TypeScript, Next.js, Styled-Components</strong></p>
       </div>
     </td>
     <td width='50%'>
@@ -189,9 +186,6 @@
           <a href='https://github.com/alex-dishen/streamers'>
             <img src="icons/repo.svg"/>
           </a>
-          <!-- <a href=''>
-            <img src='icons/live.svg'/>
-          </a> -->
         </p>
         <p><strong>React, TypeScript, Express, PostgreSQL</strong></p>
       </div>
@@ -246,7 +240,7 @@
         <a href='https://swipi.midstem.net'>
           <img src='icons/live.svg'/>
         </a>
-        <p><strong>React, TypeScript, Next, Chakra</strong></p>
+        <p><strong>React, TypeScript, Next.js, Chakra</strong></p>
       </div>
     </td>
     <td width='50%'>
@@ -265,7 +259,7 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Styled-Components</strong></p>
+        <p><strong>React, Next.js, TypeScript, Styled-Components</strong></p>
       </div>
     </td>
   </tr>
