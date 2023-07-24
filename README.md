@@ -136,6 +136,27 @@
 
 <table>
   <tr>
+    <!-- <td width='50%'></td> -->
+    <td width='50%' colspan='2'>
+      <h2 align='center'>Weaponry</h2>
+      <div align='center'>  
+        <img src='img/weaponry.png' alt='Chronous' width='50%'/>
+        <br>
+        <br>
+        <p>
+          <a href='https://apps.apple.com/app/weaponry/id6446477481'>
+            <img src="icons/apple.svg"/>
+          </a>
+          <!-- <a href='https://play.google.com/store/apps/details?id=com.domdev.weaponry&hl=en-US&ah=QLIg6eGvWJml3d8EF0SHujT4Pyw&pli=1
+'>
+            <img src='icons/google_play.svg'/>
+          </a> -->
+        </p>
+        <p><strong>ReactNative, TypeScript</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width='50%'>
       <h2 align='center'>Chronous Landing</h2>
       <div align='center'>  
