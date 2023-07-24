@@ -136,12 +136,48 @@
 
 <table>
   <tr>
-    <td width='50%'></td>
+    <td width='50%'>
+      <h2 align='center'>Chronous Landing</h2>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net'>
+          <img src='img/chronous-landing.png' alt='Chronous'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://chronous.midstem.net'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript, Next.js, Styled-Components</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Chronous</h2>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net/default-chronous/'>
+          <img src='img/chronous.png' alt='Chronous'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/midstem/chronous'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://chronous.midstem.net/default-chronous/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width='50%'>
       <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/game-harbor/'>
-          <img src='img/shop.png' alt='Shop'/>
+          <img src='img/game-harbor.png' alt='Shop'/>
         </a>
         <br>
         <br>
@@ -154,24 +190,6 @@
           </a>
         </p>
         <p><strong>React, TypeScript, Redux, Express, PostgreSQL</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width='50%'>
-      <h2 align='center'>Chronous</h2>
-      <div align='center'>  
-        <a href='https://chronous.midstem.net'>
-          <img src='img/chronous.png' alt='Chronous'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://chronous.midstem.net'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Next.js, Styled-Components</strong></p>
       </div>
     </td>
     <td width='50%'>
