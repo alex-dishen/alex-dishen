@@ -176,18 +176,18 @@
     <td width='50%'>
       <h2 align='center'>Chronous</h2>
       <div align='center'>  
-        <a href='https://chronous.midstem.net/default-chronous/'>
+        <!-- <a href='https://chronous.midstem.net/default-chronous/'> -->
           <img src='img/chronous.png' alt='Chronous'/>
-        </a>
+        <!-- </a> -->
         <br>
         <br>
         <p>
           <a href='https://github.com/midstem/chronous'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://chronous.midstem.net/default-chronous/'>
+          <!-- <a href='https://chronous.midstem.net/default-chronous/'>
             <img src='icons/live.svg'/>
-          </a>
+          </a> -->
         </p>
         <p><strong>React, TypeScript</strong></p>
       </div>
