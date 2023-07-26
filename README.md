@@ -195,6 +195,25 @@
   </tr>
   <tr>
     <td width='50%'>
+      <h2 align='center'>Streamers</h2>
+      <div align='center'>  
+        <a href='https://alex-dishen.github.io/streamers/'>
+          <img src='img/streamers.png' alt='Streamers'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/alex-dishen/streamers'>
+            <img src="icons/repo.svg"/>
+          </a>
+            <a href='https://alex-dishen.github.io/streamers/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, TypeScript, Express, PostgreSQL</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
       <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
         <a href='https://alex-dishen.github.io/game-harbor/'>
@@ -211,22 +230,6 @@
           </a>
         </p>
         <p><strong>React, TypeScript, Redux, Express, PostgreSQL</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align='center'>Streamers</h2>
-      <div align='center'>  
-        <a href='https://github.com/alex-dishen/streamers'>
-          <img src='img/streamers.png' alt='Streamers'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/alex-dishen/streamers'>
-            <img src="icons/repo.svg"/>
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Express, PostgreSQL</strong></p>
       </div>
     </td>
   </tr>
