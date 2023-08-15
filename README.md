@@ -147,10 +147,9 @@
           <a href='https://apps.apple.com/app/weaponry/id6446477481'>
             <img src="icons/apple.svg"/>
           </a>
-          <!-- <a href='https://play.google.com/store/apps/details?id=com.domdev.weaponry&hl=en-US&ah=QLIg6eGvWJml3d8EF0SHujT4Pyw&pli=1
-'>
+          <a href='https://play.google.com/store/apps/details?id=com.domdev.weaponry'>
             <img src='icons/google_play.svg'/>
-          </a> -->
+          </a>
         </p>
         <p><strong>ReactNative, TypeScript</strong></p>
       </div>
