@@ -87,12 +87,12 @@
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
-      <br/>Node.js
+      <img src="icons/nest.svg" alt="Nest.js" width="40" height="40"/>
+      <br/>Nest.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/express.svg" alt="Express" width="40" height="40"/>
-      <br/>Express
+      <img src="icons/prisma.svg" alt="Prisma" width="40" height="40"/>
+      <br/>Prisma
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
