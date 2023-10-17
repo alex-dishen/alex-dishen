@@ -121,10 +121,6 @@
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/postman.svg" alt="Postman" width="40" height="40"/>
-      <br/>Postman
-    </td>
   </tr>
 </table>
 
