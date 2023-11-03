@@ -133,21 +133,26 @@
 <table>
   <tr>
     <!-- <td width='50%'></td> -->
-    <td width='50%' colspan='2'>
-      <h2 align='center'>Weaponry</h2>
+     <td width='50%' colspan=2>
+      <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
-        <img src='img/weaponry.png' alt='Chronous' width='50%'/>
+        <a href='https://alex-dishen.github.io/game-harbor/'>
+          <img src='img/game-harbor.png' alt='Shop'/>
+        </a>
         <br>
         <br>
         <p>
-          <a href='https://apps.apple.com/app/weaponry/id6446477481'>
-            <img src="icons/apple.svg"/>
+          <a href='https://github.com/alex-dishen/game-harbor'>
+            <img src="icons/repo-web.svg"/>
           </a>
-          <a href='https://play.google.com/store/apps/details?id=com.domdev.weaponry'>
-            <img src='icons/google_play.svg'/>
+          <a href='https://github.com/alex-dishen/game-harbor-back'>
+            <img src="icons/repo-back.svg"/>
+          </a>
+          <a href='https://alex-dishen.github.io/game-harbor/'>
+            <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>ReactNative, TypeScript</strong></p>
+        <p><strong>React, TypeScript, Redux, NestJs, Prisma, PostgreSQL</strong></p>
       </div>
     </td>
   </tr>
@@ -209,22 +214,20 @@
       </div>
     </td>
     <td width='50%'>
-      <h2 align='center'>Game Harbor</h2>
+      <h2 align='center'>Weaponry</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/game-harbor/'>
-          <img src='img/game-harbor.png' alt='Shop'/>
-        </a>
+        <img src='img/weaponry.png' alt='Weapnry picture' />
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/shop'>
-            <img src="icons/repo.svg"/>
+          <a href='https://apps.apple.com/app/weaponry/id6446477481'>
+            <img src="icons/apple.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/game-harbor/'>
-            <img src='icons/live.svg'/>
+          <a href='https://play.google.com/store/apps/details?id=com.domdev.weaponry'>
+            <img src='icons/google_play.svg'/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Redux, Express, PostgreSQL</strong></p>
+        <p><strong>ReactNative, TypeScript</strong></p>
       </div>
     </td>
   </tr>
