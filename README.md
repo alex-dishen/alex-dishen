@@ -14,7 +14,7 @@
 </p>
 
 <div align='center'>
-  <a href="https://www.linkedin.com/in/alex-dishen/"> 
+  <a href="https://www.linkedin.com/in/oleksandr-didyshen/"> 
     <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' />
   </a>
   <a href="mailto: didyshen.oleksandr@gmail.com"> 
