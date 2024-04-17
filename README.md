@@ -2,7 +2,7 @@
   title="Profile">I'm Oleksandr</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 22 years old Software Engineer based in Ukraine.<br>
+  I'm a Software Engineer<br>
   I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
   The thing that excites me, and gets me pumped up <br>
   is the process of tearing an idea down into its smallest components, <br> 
